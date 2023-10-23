@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100 vh;
+  justify-content: space-between;
+}
+
+.video {
+  border: solid 2px rgb(170, 170, 170);
+  width: 300px;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
